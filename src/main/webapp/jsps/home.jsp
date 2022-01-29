@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to MSS. Poll SCM Demo </h1>
-<h1 align="center"> Welcome to MSS .I am vinoth here to take the session Devops Master Program.......See you soon </h1>
+<h1 align="center"> Welcome to MSS .I am vinoth here to take the session Devops Master Program......See you soon </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
