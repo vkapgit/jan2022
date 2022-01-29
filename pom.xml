@@ -111,7 +111,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>vinoth-web-application</finalName>
+		<finalName>jt-web-application</finalName>
 		
 		<plugins>
 			<plugin>
