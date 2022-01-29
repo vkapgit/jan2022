@@ -2,12 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>com.vi</groupId>
+	<artifactId>vinoth-web-application</artifactId>
+	<version>1.0.1-RELEASES</version>
 	<packaging>war</packaging>
 	
-	<name>maven-web-application</name>
+	<name>vinoth-web-application</name>
 
 	<description>Maven Web Project for Java Programming Language</description>
 
